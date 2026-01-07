@@ -4,14 +4,6 @@ __pycache__/
 .venv/
 env/
 
-# Data
-# data/raw/
-# data/interim/
-# data/processed/
-# *.csv
-# *.parquet
-# *.pkl
-
 # Notebooks
 .ipynb_checkpoints/
 
