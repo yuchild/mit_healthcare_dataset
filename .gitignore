@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 .jsenv/
 env/
+venv/
 
 # Notebooks
 .ipynb_checkpoints/
