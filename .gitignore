@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.jsenv/
+env/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
